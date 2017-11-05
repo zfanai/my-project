@@ -1,0 +1,2 @@
+关于git的远程操作简洁明了的一篇博文。
+http://www.ruanyifeng.com/blog/2014/06/git_remote.html
